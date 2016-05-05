@@ -1,6 +1,6 @@
 # use "yapm install ." if you're installing this from git repository
 
-name: @m/sinopia
+name: '@m/sinopia'
 version: 1.4.1
 description: Private npm repository server
 
@@ -126,9 +126,6 @@ engines:
   node: '>=0.10'
 
 preferGlobal: true
-
-publishConfig:
-  registry: https://registry.npmjs.org/
 
 license:
   type: WTFPL
